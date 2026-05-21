@@ -1,4 +1,3 @@
-# godofhammers.github.io
 # Privacy Policy
 
 **Effective date:** May 20, 2026
