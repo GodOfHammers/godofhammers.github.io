@@ -1,54 +1,56 @@
 # Privacy Policy
 
+**App:** Pommageddon
+**Developer:** SparkMinds Creations
 **Effective date:** May 20, 2026
 
-This Privacy Policy explains how this app collects, uses, stores, and shares information when you use the app.
+Pommageddon is a free apple-catching arcade game made for kids and families. It runs entirely on your device. It does not require an account, it does not collect, store, or share any personal information, and it does not send any data off your device. This Privacy Policy explains that in detail.
 
 ## 1. Information We Collect
 
-- Information you provide directly in the app, such as account details, messages, form inputs, or uploaded content.
-- Device and technical information, such as device model, operating system, app version, crash logs, diagnostics, and approximate usage data.
-- If applicable, permissions-based data only when you grant access, such as camera, microphone, storage, notifications, or location.
+**We collect nothing.** Pommageddon does not ask you to create an account or sign in, and it does not collect any personal or identifying information about you. Specifically, the app does not collect:
+
+- Names, email addresses, phone numbers, or other contact details
+- Device identifiers, advertising IDs, or location data
+- Usage analytics, diagnostics, or crash logs
+- Photos, files, contacts, or any content from your device
+
+The app does not include any third-party advertising, analytics, or tracking software. Your gameplay and scores stay on your device.
 
 ## 2. How We Use Information
 
-- To provide and maintain the app’s core functionality.
-- To improve reliability, performance, and user experience.
-- To respond to support requests and fix bugs.
-- To protect against fraud, abuse, and security issues.
+Because we do not collect any information, there is nothing for us to use. The game runs locally on your device to let you play.
 
-## 3. Data Sharing
+## 3. Data Sharing and Disclosure
 
-We do not sell personal information. We may share limited data with service providers that help us operate the app, such as hosting, analytics, crash reporting, authentication, or payment providers, only to the extent necessary to provide the service.
+We do not collect personal information, so we have nothing to sell, share, or disclose. No data is sent to us or to any third party.
 
-## 4. Permissions and Sensitive Data
+## 4. Permissions
 
-If the app requests access to sensitive permissions or user data, the request is used only for app features that require it. You can deny permissions, though some features may not work correctly.
+Pommageddon does not request access to your camera, microphone, location, contacts, photos, files, or storage. It does not show runtime permission prompts.
 
 ## 5. Data Retention
 
-We keep information only for as long as needed to provide the service, comply with legal obligations, resolve disputes, and enforce agreements.
+We do not collect or retain any personal data. Any in-game progress, such as your high score, is stored only on your device and is removed if you uninstall the app.
 
 ## 6. Security
 
-We use reasonable technical and organizational measures to protect information, but no method of transmission or storage is completely secure.
+Since the app does not collect, transmit, or store personal data on any server, there is no personal information in transit or at rest to be exposed.
 
-## 7. Children’s Privacy
+## 7. Children's Privacy
 
-If the app is directed to children, we will provide practices consistent with applicable laws and platform policies. If your app targets children under 13, ensure this policy and your in-app disclosures accurately describe your data practices.
+Pommageddon is intended for children and families, and it collects no personal information from anyone, including children. The app is designed to comply with the Children's Online Privacy Protection Act (COPPA), the EU and UK General Data Protection Regulation provisions for children (GDPR-K), and Google Play's Families policy requirements. We do not knowingly collect personal information from children.
 
 ## 8. Your Choices
 
-- You may manage permissions through your device settings.
-- You may stop using the app at any time.
-- If applicable, you may request access, correction, or deletion of your data by contacting us.
+You remain in control at all times. You can manage app permissions in your device settings, clear the app's data or uninstall it at any time, or simply stop using the app.
 
-## 9. Contact
+## 9. Contact Us
 
-For privacy questions or requests, contact: [your-email@example.com](mailto:your-email@example.com)
+If you have any questions about this Privacy Policy, please contact us at:
 
-## 10. Changes
+[support@sparkmindscreations.com](mailto:support@sparkmindscreations.com)
 
-We may update this Privacy Policy from time to time. The updated version will be posted at the same URL with a revised effective date.
+## 10. Changes to This Policy
 
-Replace the placeholder contact email and edit any sections that do not match your app’s actual behavior before publishing.
+We may update this Privacy Policy from time to time. Any changes will be posted at this same URL with a revised effective date.
